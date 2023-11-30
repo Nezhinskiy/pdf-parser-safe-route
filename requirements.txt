@@ -1,0 +1,5 @@
+aiohttp>=3, <4
+browser-cookie3>=0, <1
+urllib3>=2, <3
+pycookiecheat
+python-dotenv>=1.0.0
